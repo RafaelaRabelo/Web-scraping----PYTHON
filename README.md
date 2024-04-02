@@ -21,3 +21,6 @@ Este repositório contém scripts em Python para realizar web scraping de uma va
 ## Contribuição
 
 Contribuições são bem-vindas! Se você tem ideias para melhorar os scripts existentes, adicionar mais funcionalidades ou adicionar suporte para outros indicadores financeiros, sinta-se à vontade para abrir uma issue ou enviar um pull request. Juntos, podemos tornar este produto ainda mais útil e abrangente para a comunidade financeira.
+
+# Autora
+Este projeto foi desenvolvido por Rafaela Bernardes Rabelo.
