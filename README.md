@@ -21,7 +21,3 @@ Este repositório contém scripts em Python para realizar web scraping de uma va
 ## Contribuição
 
 Contribuições são bem-vindas! Se você tem ideias para melhorar os scripts existentes, adicionar mais funcionalidades ou adicionar suporte para outros indicadores financeiros, sinta-se à vontade para abrir uma issue ou enviar um pull request. Juntos, podemos tornar este produto ainda mais útil e abrangente para a comunidade financeira.
-
-## Licença
-
-Este projeto é licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` para obter mais detalhes.
